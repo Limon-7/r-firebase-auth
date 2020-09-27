@@ -1,0 +1,12 @@
+.navigation {
+  padding: 10px;
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+.navigation__menu {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+a {
+  color: #fff;
+}
